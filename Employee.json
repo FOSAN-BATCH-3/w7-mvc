@@ -1,0 +1,14 @@
+[
+  {
+    "nama": "indah",
+    "password": "123",
+    "pekerjaan": "dokter",
+    "statusLogin": "out"
+  },
+  {
+    "nama": "budi",
+    "password": "123456",
+    "pekerjaan": "Staff",
+    "statusLogin": "out"
+  }
+]
