@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "budi",
+    "diagnose": "batuk"
+  },
+  {
+    "id": 2,
+    "username": "adi",
+    "diagnose": "batuk"
+  },
+  {
+    "id": 3,
+    "username": "adre",
+    "diagnose": "batuk kering"
+  },
+  {
+    "id": 4,
+    "username": "awe",
+    "diagnose": "demam berdarah"
+  },
+  {
+    "id": 5,
+    "username": "asd",
+    "diagnose": "kutu air"
+  },
+  {
+    "id": 6,
+    "username": "awerft",
+    "diagnose": "pusing masuk angin"
+  },
+  {
+    "id": 7,
+    "username": "awdaft",
+    "diagnose": "pusing"
+  }
+]
