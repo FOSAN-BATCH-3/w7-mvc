@@ -19,5 +19,12 @@
     "password": "300492",
     "job": "Doctor",
     "Login": "x"
+  },
+  {
+    "id": 4,
+    "username": "Araya",
+    "password": "240992",
+    "job": "Nurse",
+    "Login": "x"
   }
 ]

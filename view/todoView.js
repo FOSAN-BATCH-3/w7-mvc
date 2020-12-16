@@ -36,6 +36,26 @@ class Todoview {
     static logoutE () {
         console.log('anda berhasil log out')
     }
+
+    static registerFails () {
+        console.log('koe wes kedaftar blok')
+    }
+
+    static noPassword () {
+        console.log('password karo job mu diisi tho blok')
+    }
+
+    static doubleLogin () {
+        console.log('wes ono sing log in blok, gantian tho cok')
+    }
+
+    static updatePasien (name) {
+        console.log(`data pasien ${name} berhasil di update`)
+    } 
+
+    static doubleLogout () {
+        console.log('udah ga ada yg log in, ngapain mbok log out goblok')
+    }
 }
 
 module.exports = Todoview
